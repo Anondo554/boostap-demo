@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#counterUp {
+  background: aqua;
+  padding: 100px;
+}
+
+.item {
+  text-align: center;
+  background: tomato;
+  padding: 50px;
+  color: aliceblue;
+  font-size: 20px;
+  border-radius: 20px;
+}
+
+#coundown {
+  margin-top: 20px;
+  background: orange;
+  padding: 100px;
+}
+
+.birthday h2 {
+  padding: 20px;
+  font-size: 50px;
+  font-weight: 700;
+  color: white;
+}
+
+#images {
+  margin-top: 100px;
+  background: #09e732;
+  padding: 100px;
+}
+
+#venubox {
+  background: rgb(187, 0, 255);
+  padding: 100px;
+  margin-top: 100px;
+}
+
+
+/* video Part  */
+
+#videoPart{
+  background: rgb(7, 96, 229); 
+  margin-top: 100px;
+}
+.video{
+  background: url(../images/bannar.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; 
+}
+.overflow{
+  background: rgba(0, 0, 0, 0.100);
+  padding: 300px;
+}
+.video i{
+ font-size: 50px;
+ color: rgb(248, 17, 225);
+}
+  
